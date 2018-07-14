@@ -256,6 +256,7 @@ bizploit> start
 - [pysap](https://github.com/CoreSecurity/pysap) - Python library to craft SAP network protocol packets
 
 ## References
+- [Pentest of an SAP environment](https://www.ihacklabs.com/en/pentest-of-an-sap-environment/)
 - [Hacking SAP CRM: 2 vulnerabilities in SAP NetWeaver AS Java](https://erpscan.com/research/hacking-sap-crm/)
 - [SAP Penetration Testing Using Metasploit](http://information.rapid7.com/rs/rapid7/images/SAP%20Penetration%20Testing%20Using%20Metasploit%20Final.pdf)
 - https://github.com/davehardy20/SAP-Stuff - a script to semi-automate Bizploit
